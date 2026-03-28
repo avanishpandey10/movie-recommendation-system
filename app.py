@@ -367,8 +367,14 @@ elif st.session_state.view == "details":
             if not err3 and genre_only:
                 poster_grid(
                     genre_only, cols=grid_cols, key_prefix="details_genre_fallback"
+
                 )
             else:
                 st.warning("No recommendations available right now.")
     else:
         st.warning("No title available to compute recommendations.")
+
+st.title("Avanish Pandey")
+st.markdown(
+    "<center>Made by <a href='https://www.linkedin.com/in/avanish-pandey-976b76253/' target='_blank'>Linkedin</a> 🚀</center>", unsafe_allow_html=True
+)
