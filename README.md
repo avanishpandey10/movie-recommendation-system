@@ -103,7 +103,9 @@ Trained on a dataset of **45,000+ movies**, including metadata like genres, over
 ## 📸 Output Screenshot
 
 ![Home](images/home.png)
-![Recommendation](images/recommend.png)
+![Recommendat<img width="1920" height="1080" alt="Screenshot (1393)" src="https://github.com/user-attachments/assets/b2c5f28b-af2e-43c8-a306-c6ae1bab5ce5" />
+ion](images/recomme<img width="1920" height="1080" alt="Screenshot (1394)" src="https://github.com/user-attachments/assets/5bde930b-098a-43d6-b4d1-a5041af5c99b" />
+nd.png)
 
 project live:
 https://movie-recommendation-system10.streamlit.app/
