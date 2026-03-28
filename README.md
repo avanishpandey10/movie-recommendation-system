@@ -100,6 +100,14 @@ Trained on a dataset of **45,000+ movies**, including metadata like genres, over
 
 ---
 
+## 📸 Output Screenshot
+
+![Home](images/home.png)
+![Recommendation](images/recommend.png)
+
+project live:
+https://movie-recommendation-system10.streamlit.app/
+
 ## 📌 Future Improvements
 
 * Add collaborative filtering  
