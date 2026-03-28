@@ -218,6 +218,10 @@ with st.sidebar:
 # =============================
 # HEADER
 # =============================
+st.markdown(
+    "<div style='text-align:center;'>👤 <b>Avanish Pandey</b> • <a href='https://www.linkedin.com/in/avanish-pandey-976b76253/' target='_blank'>LinkedIn</a></div>",
+    unsafe_allow_html=True
+)
 st.title("🎬 Movie Recommender")
 st.markdown(
     "<div class='small-muted'>Type keyword → dropdown suggestions + matching results → open → details + recommendations</div>",
@@ -374,7 +378,4 @@ elif st.session_state.view == "details":
     else:
         st.warning("No title available to compute recommendations.")
 
-st.title("Avanish Pandey")
-st.markdown(
-    "<center>Made by <a href='https://www.linkedin.com/in/avanish-pandey-976b76253/' target='_blank'>Linkedin</a> 🚀</center>", unsafe_allow_html=True
-)
+
