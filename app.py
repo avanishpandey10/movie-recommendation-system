@@ -220,7 +220,7 @@ with st.sidebar:
 # =============================
 st.title("🎬 Movie Recommender")
 st.markdown(
-    "<div style='text-align:center; font-size:16px;'>👤 <b>Linkedin: Avanish Pandey</b> • <a href='https://www.linkedin.com/in/avanish-pandey-976b76253/' target='_blank'>LinkedIn</a></div>",
+    "<div style='text-align:center; font-size:16px;'>👤 <b>By Avanish Pandey</b> • <a href='https://www.linkedin.com/in/avanish-pandey-976b76253/' target='_blank'>LinkedIn</a></div>",
     unsafe_allow_html=True
 )
 st.markdown(
